@@ -1,4 +1,5 @@
 # Tarea-Capitulo-1-2
+ANDRES TIPAN
 ----
 # Objetivo General
 1.- Analizar las diferentes cantidades, unidades fundaménteles y sus derivados a utilizarse a lo largo del estudio de fundamentos de circuitos eléctricos mediante la realización de ejercicios propuestos a lo largo de la materia .
