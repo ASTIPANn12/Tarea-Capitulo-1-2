@@ -130,10 +130,11 @@ SECCIÓN 2–2 Carga eléctrica
 
 2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
 
-
+![h1](https://user-images.githubusercontent.com/105671364/169257077-d3bd1934-0233-49e5-a920-4614352374c9.jpg)
 
 4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
 
+![h2](https://user-images.githubusercontent.com/105671364/169257115-d3eb4003-9515-48b0-a344-c2c521b194a2.jpg)
 
 
 
